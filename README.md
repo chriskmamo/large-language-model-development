@@ -2,7 +2,7 @@
 
 ## Guides & examples
 
-- [Web development](https://https://github.com/chriskmamo/large-language-model-development/web-development)
+- [Web development](web_development/README.md)
 
 ## Contributing
 
